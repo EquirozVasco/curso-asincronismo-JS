@@ -1,0 +1,24 @@
+{
+  "name": "curso-asincronismo-js",
+  "version": "1.0.0",
+  "description": "trabajando con asincronismo en JS",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EquirozVasco/curso-asincronismo-JS.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EquirozVasco/curso-asincronismo-JS/issues"
+  },
+  "homepage": "https://github.com/EquirozVasco/curso-asincronismo-JS#readme"
+}
