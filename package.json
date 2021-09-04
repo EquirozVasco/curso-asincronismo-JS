@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/EquirozVasco/curso-asincronismo-JS/issues"
   },
-  "homepage": "https://github.com/EquirozVasco/curso-asincronismo-JS#readme"
+  "homepage": "https://github.com/EquirozVasco/curso-asincronismo-JS#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
